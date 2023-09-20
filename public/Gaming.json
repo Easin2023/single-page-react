@@ -5,11 +5,11 @@
           "title": "Awesome Gaming Video 1",
           "videoCreator": {
             "name": "Gamer123",
-            "img": "profile_image_url_gamer123.jpg"
+            "img": "https://i.ibb.co/tYmJft9/istockphoto-1200677760-612x612.jpg"
           },
-          "view": 10000,
+          "view": "1M",
           "verified": true,
-          "uploadTime": "2023-09-19T10:00:00Z"
+          "uploadTime": "2023-09-19"
         },
         {
           "id": "2",
@@ -17,11 +17,11 @@
           "title": "Awesome Gaming Video 1",
           "videoCreator": {
             "name": "Gamer123",
-            "img": "profile_image_url_gamer123.jpg"
+            "img": "https://i.ibb.co/tYmJft9/istockphoto-1200677760-612x612.jpg"
           },
-          "view": 10000,
+          "view": "2M",
           "verified": true,
-          "uploadTime": "2023-09-19T10:00:00Z"
+          "uploadTime": "2023-09-19"
         },
         {
           "id": "3",
@@ -29,11 +29,11 @@
           "title": "Awesome Gaming Video 1",
           "videoCreator": {
             "name": "Gamer123",
-            "img": "profile_image_url_gamer123.jpg"
+            "img": "https://i.ibb.co/tYmJft9/istockphoto-1200677760-612x612.jpg"
           },
-          "view": 10000,
+          "view": "5M",
           "verified": true,
-          "uploadTime": "2023-09-19T10:00:00Z"
+          "uploadTime": "2023-09-19"
         },
         {
           "id": "5",
@@ -41,46 +41,46 @@
           "title": "Epic Gaming Moments",
           "videoCreator": {
             "name": "GameMaster",
-            "img": "profile_image_url_gamemaster.jpg"
+            "img": "https://i.ibb.co/tYmJft9/istockphoto-1200677760-612x612.jpg"
           },
-          "view": 15000,
+          "view": "1.5M",
           "verified": true,
-          "uploadTime": "2023-09-19T11:30:00Z"
+          "uploadTime": "2023-09-19"
         },
         {
           "id": "6",
-          "video": "https://www.youtube.com/watch?v=SvG7wFQYtt4",
+          "video": "https://www.youtube.com/embed/0YfXd7bB3QY?si=AGrp8t7dRzwUnKso",
           "title": "Epic Gaming Moments",
           "videoCreator": {
             "name": "GameMaster",
-            "img": "profile_image_url_gamemaster.jpg"
+            "img": "https://i.ibb.co/tYmJft9/istockphoto-1200677760-612x612.jpg"
           },
-          "view": 15000,
+          "view": "4.5M",
           "verified": true,
-          "uploadTime": "2023-09-19T11:30:00Z"
+          "uploadTime": "2023-09-19"
         },
         {
           "id": "7",
-          "video": "https://www.youtube.com/watch?v=k14b3NzHXsw",
+          "video": "https://www.youtube.com/embed/SvG7wFQYtt4?si=rM0lJD8Ok5Qu6uz3",
           "title": "Epic Gaming Moments",
           "videoCreator": {
             "name": "GameMaster",
-            "img": "profile_image_url_gamemaster.jpg"
+            "img": "https://i.ibb.co/tYmJft9/istockphoto-1200677760-612x612.jpg"
           },
-          "view": 15000,
+          "view": "12.2M",
           "verified": true,
-          "uploadTime": "2023-09-19T11:30:00Z"
+          "uploadTime": "2023-09-19"
         },
         {
           "id": "7",
-          "video": "https://www.youtube.com/watch?v=0eupMnrZ3gA&t=32s",
+          "video": "https://www.youtube.com/embed/k14b3NzHXsw?si=babKl1YtbjD_wVv_",
           "title": "Epic Gaming Moments",
           "videoCreator": {
             "name": "GameMaster",
-            "img": "profile_image_url_gamemaster.jpg"
+            "img": "https://i.ibb.co/tYmJft9/istockphoto-1200677760-612x612.jpg"
           },
-          "view": 15000,
+          "view": "21.2M",
           "verified": true,
-          "uploadTime": "2023-09-19T11:30:00Z"
+          "uploadTime": "2023-09-19"
         }
 ]
